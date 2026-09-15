@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi there, I'm Marco Oden Leo 👋
 
-<!--
-**Meezuki/Meezuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science undergraduate passionate about Machine Learning, AI, software development, and game mechanics. I enjoy building tools that solve real problems, deconstructing complex systems into clean code, and teaching core engineering principles.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+#### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+#### AI & Frameworks
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+
+#### Tools & Databases
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+---
+
+### 🚀 Featured Projects
+
+* **[SentimentBot](https://github.com/Meezuki/SentimentBot)**  
+  A Discord moderation bot powered by NLP machine learning to detect and filter toxic comments in real-time chat environments.
+* **[Project-D](https://github.com/Meezuki/Project-D)**  
+  A 3D roguelike deckbuilder developed in Unity (C#), focusing on tactical turn-based card mechanics and dynamic encounters.
+* **[Kitchen POS System](https://github.com/Meezuki/Kitchen-POS-System)**  
+  A desktop point-of-sale and kitchen order management application built using JavaFX and OOP design patterns.
+
+---
+
+### 📚 Mentorship & Guides
+
+Notion guides and curriculum materials I developed while mentoring students:
+
+* **[Git & GitHub for Beginners](https://app.notion.com/p/Git-GitHub-Tutorial-2c1d461bbaa58075a6b3f50d0e6cbd0b?source=copy_link)**  
+  A practical, visual introduction to version control, branching strategies, and collaboration workflows.
+* **[Fundamental OOP in Java](https://app.notion.com/p/Fundamental-Object-Oriented-Programming-OOP-29bd461bbaa5806aa862f530133180e9?source=copy_link)**  
+  Deep dive into core Object-Oriented principles: Encapsulation, Inheritance, Polymorphism, Overloading, and Abstraction.
+
+---
+
+### 📫 Connect With Me
+
+* **LinkedIn:** [linkedin.com/in/marco-leo-8a0183326](https://www.linkedin.com/in/marco-leo-8a0183326/)
+* **GitHub:** [@Meezuki](https://github.com/Meezuki)
