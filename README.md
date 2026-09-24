@@ -1,6 +1,9 @@
 # Hi there, I'm Marco Oden Leo 👋
 
-I'm a Computer Science undergraduate passionate about Machine Learning, AI, software development, and game mechanics. I enjoy building tools that solve real problems, deconstructing complex systems into clean code, and teaching core engineering principles.
+I'm Marco Oden Leo, a Computer Science student at Bina Nusantara University and a Mentor at Bina Nusantara Computer Club (BNCC). I enjoy developing applications that are practical and solve real problems. Currently, I'm focusing on building desktop software, developing AI tools in Python, and exploring machine learning for NLP and computer vision.
+
+🌐 **Interactive Portfolio:** [marcoodenleo.pages.dev](https://marcoodenleo.pages.dev/)  
+*(A personal portfolio styled after the Discord desktop client)*
 
 ---
 
@@ -27,12 +30,14 @@ I'm a Computer Science undergraduate passionate about Machine Learning, AI, soft
 
 ### 🚀 Featured Projects
 
+* **[Discord-Themed Interactive Portfolio](https://github.com/Meezuki/discord-portofolio)** • **[Live Demo](https://marcoodenleo.pages.dev/)**  
+  A portfolio website engineered to replicate the native Discord desktop client interface, featuring channel-based navigation, live activity statuses, responsive member popouts, and rich embeds. Built with React, Vite, and Tailwind CSS.
 * **[SentimentBot](https://github.com/Meezuki/SentimentBot)**  
   A Discord moderation bot powered by NLP machine learning to detect and filter toxic comments in real-time chat environments.
 * **[Project-D](https://github.com/Meezuki/Project-D)**  
   A 3D roguelike deckbuilder developed in Unity (C#), focusing on tactical turn-based card mechanics and dynamic encounters.
 * **[Kitchen POS System](https://github.com/Meezuki/Kitchen-POS-System)**  
-  A desktop point-of-sale and kitchen order management application built using JavaFX and OOP design patterns.
+  A complete desktop POS and restaurant management app built with Java & JavaFX. ☕🍽️
 
 ---
 
@@ -41,7 +46,7 @@ I'm a Computer Science undergraduate passionate about Machine Learning, AI, soft
 Notion guides and curriculum materials I developed while mentoring students:
 
 * **[Git & GitHub for Beginners](https://app.notion.com/p/Git-GitHub-Tutorial-2c1d461bbaa58075a6b3f50d0e6cbd0b?source=copy_link)**  
-  A practical, visual introduction to version control, branching strategies, and collaboration workflows.
+  An introduction to Git version control and GitHub.
 * **[Fundamental OOP in Java](https://app.notion.com/p/Fundamental-Object-Oriented-Programming-OOP-29bd461bbaa5806aa862f530133180e9?source=copy_link)**  
   Deep dive into core Object-Oriented principles: Encapsulation, Inheritance, Polymorphism, Overloading, and Abstraction.
 
@@ -49,5 +54,6 @@ Notion guides and curriculum materials I developed while mentoring students:
 
 ### 📫 Connect With Me
 
+* **Portfolio:** [marcoodenleo.pages.dev](https://marcoodenleo.pages.dev/)
 * **LinkedIn:** [linkedin.com/in/marco-leo-8a0183326](https://www.linkedin.com/in/marco-leo-8a0183326/)
 * **GitHub:** [@Meezuki](https://github.com/Meezuki)
