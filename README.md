@@ -30,8 +30,6 @@ I'm Marco Oden Leo, a Computer Science student at Bina Nusantara University and 
 
 ### 🚀 Featured Projects
 
-* **[Discord-Themed Interactive Portfolio](https://github.com/Meezuki/discord-portofolio)** • **[Live Demo](https://marcoodenleo.pages.dev/)**  
-  A portfolio website engineered to replicate the native Discord desktop client interface, featuring channel-based navigation, live activity statuses, responsive member popouts, and rich embeds. Built with React, Vite, and Tailwind CSS.
 * **[SentimentBot](https://github.com/Meezuki/SentimentBot)**  
   A Discord moderation bot powered by NLP machine learning to detect and filter toxic comments in real-time chat environments.
 * **[Project-D](https://github.com/Meezuki/Project-D)**  
